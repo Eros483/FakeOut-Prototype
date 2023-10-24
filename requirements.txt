@@ -1,0 +1,5 @@
+instagrapi==<version>
+openai==<version>
+numpy==<version>
+pandas==<version>
+scikit-learn==<version>
