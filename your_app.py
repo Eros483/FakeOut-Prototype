@@ -73,7 +73,7 @@ def bio_check(p):
     return chatcompleter["choices"][0]["message"]["content"]
 #logging in
 
-user = "lolbozo2005"
+user = "aurn.oob"
 password = "arnabmandalisthebest"
 
 apicl.login(user, password)
