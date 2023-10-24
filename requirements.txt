@@ -1,5 +1,8 @@
-instagrapi==<version>
-openai==<version>
-numpy==<version>
-pandas==<version>
-scikit-learn==<version>
+streamlit==0.86.0
+json
+instagrapi==2.0.0
+openai==0.27.0
+statistics
+numpy
+pandas
+scikit-learn
