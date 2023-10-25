@@ -73,9 +73,11 @@ def bio_check(p):
     return chatcompleter["choices"][0]["message"]["content"]
 #logging in
 
-user = "aurn.oob"
-password = "Janeman@2015"
-
+st.text('Please login to Instagram(Check documentation for temporary credentials): )
+temp1=st.text_area("username: ", height=20)
+user=temp1
+temp2=st.text_area('password: ', height=20)
+password=temp2
 apicl.login(user, password)
 #finding numeric id from username
 
