@@ -73,8 +73,8 @@ def bio_check(p):
     return chatcompleter["choices"][0]["message"]["content"]
 #logging in
 
-user=''
-password=''
+user='aurn.oob'
+password='arnabisthebest'
 apicl.login(user, password)
 #finding numeric id from username
 
