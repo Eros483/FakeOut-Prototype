@@ -74,7 +74,7 @@ def bio_check(p):
 #logging in
 
 user='aurn.oob'
-password='wearethebest'
+password='wearethebest2ndattempt'
 apicl.login(user, password)
 #finding numeric id from username
 
