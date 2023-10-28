@@ -9,7 +9,7 @@ from ml_model import train_and_predict_knn
 #initializing client and api key
 apicl = instagrapi.Client()
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 #streamlit
 
