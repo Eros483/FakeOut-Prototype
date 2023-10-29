@@ -41,6 +41,7 @@ def train_and_predict_knn(user_information):
     # Make predictions on the input data
     user_information = user_information.reshape(1, -1)
     predictions = classifier.predict(user_information)
+    print(predictions)
     if predictions>=0.5:
         if predictions==1:
             st.text("Fake Account.\n")
