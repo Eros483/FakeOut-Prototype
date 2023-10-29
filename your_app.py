@@ -234,7 +234,7 @@ if input:
 
         final_data = [media_count, following_count, like_to_follower, follower_to_following, alpha_ratio, bio_legit, caption_legit, is_name_bio, is_private, has_pfp, is_verified, is_bio_url, is_business, is_email, is_phone]
         
-        st.text("You can now\n1. get user info\n2. bot detection\n3. end application")
+        st.text("You can now\n1. get user info\n2. bot detection\n3. account type\n4. end application")
         question=st.text_area("What would you like to do: ", height=20)
         if input:
             answer=question
