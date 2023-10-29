@@ -3,19 +3,20 @@
 ## Overview
 FakeOut is a tool that allows you to analyze Instagram user accounts to determine if they are legitimate or potentially associated with bot or spam activity. This tool provides insights into user account information, caption analysis, and bio coherence scoring.
 
+## Usage Without Installation
+You can also access the FakeOut website online without the need to install anything. Just click [here](https://fakeout-prototype-bjesc3mq6hmhyndxdl4r5t.streamlit.app/) to open the website and start analyzing Instagram accounts.
+
 ## Installation
 1. Clone this repository to your local machine.
 2. Create a virtual environment (recommended) and activate it.
-3. Install the required dependencies using `pip` and the `requirements.txt` file:pip install -r requirements.txt
-
+3. Install the required dependencies using `pip` and the `requirements.txt` file: `pip install -r requirements.txt`
 
 ## Usage
 
 ### Running the Application
 1. Ensure you have the necessary dependencies installed as mentioned in the Installation section.
 
-2. Run the Streamlit application with the following command:streamlit run app.py
-
+2. Run the Streamlit application with the following command: `streamlit run app.py`
 
 3. The application will open in your web browser. You can enter an Instagram username to analyze.
 
