@@ -39,3 +39,11 @@ Make sure to check and install the specific versions mentioned in the `requireme
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Credits
+This project wouldn't have been possible without the efforts of my teammates
+- Jia
+- Kishika
+- Anuran
+- Anish
+- Piyush
